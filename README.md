@@ -1,7 +1,7 @@
 # CS-F214
 Logic In Computer Science
 
-This directory includes my assignments and practice for __Logic In Computer Science__ Course offered at __BITS-Pilani (2017-18)__.
+This directory includes my assignments and practice for _Logic In Computer Science_ Course offered at _BITS-Pilani (2017-18)_.
 I don't claim copyright of the problem statements and practice code provided in this Repository. Also the contents of this directory are **not** availible under any open source license.  
 The solutions were a combined effort of Divesh Uttamchandani and Rahul Khapre. If you want to use the assignment code in this repository, please write to diveshuttamchandani@gmail.com
 
