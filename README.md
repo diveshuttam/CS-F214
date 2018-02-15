@@ -18,8 +18,8 @@ The resources used for learning prolog for this assignment include:
 i.e
   1. there is a OR between all the predicates listed.
   2. there is an AND between the statements written within a predicate (MOSTLY).
-  3. there is a THERE EXISTS for a single predicate. i.e it returns true if it finds a single correct match.
-  4. there is a FOR EVERY between the combination of all the predicates i.e all predicates are tested.
+  3. there is a THERE EXISTS within a single predicate. i.e it returns true even if it finds a single correct match of all statements within a predicate
+  4. there is a FOR EVERY between the overall predicates i.e all predicates are tested even after a matching predicate is found.
   5. we can convert THERE EXISTS to FOR EVERY for a single predicates by using 2 NOT's. For details refer to the comments in the code.
   6. there is an OR between various solution that prolog proposes.
 
