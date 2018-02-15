@@ -1,15 +1,17 @@
 # CS-F214
 Logic In Computer Science
 
-This directory includes my assignments and practice for Logic In Computer Science Course offered at BITS-Pilani (2017-18).
-I don't claim copyright of the problem statements and practice code provided in this Repository. Also the contents of this directory are not availible under any open source license. The solutions were a combined effort of Divesh Uttamchandani and Rahul Khapre. If you want to use the code in solutions please write to diveshuttamchandani@gmail.com
+This directory includes my assignments and practice for __Logic In Computer Science__ Course offered at __BITS-Pilani (2017-18)__.
+I don't claim copyright of the problem statements and practice code provided in this Repository. Also the contents of this directory are **not** availible under any open source license.  
+The solutions were a combined effort of Divesh Uttamchandani and Rahul Khapre. If you want to use the assignment code in this repository, please write to diveshuttamchandani@gmail.com
 
-# Prolog Resources
-The resources used for learning prolog for this assignment include:  
+# Resources
+##  Prolog 
+The resources used for learning prolog for the assignment include:  
 1. [IIT-KGP Nptel Course on AI - lectures 13 to 15](https://www.youtube.com/watch?v=jySpg72Vbc4) \[VIDEO]
 2. [Derek Banas - Learn Prolog in one Video.](https://www.youtube.com/watch?v=SykxWpFwMGs) \[VIDEO]
 
-# Logic Resources
+## Logic
 1. [Stanford Intro to Logic](http://intrologic.stanford.edu/lessons/lessons.html) \[TEXT]
 
 # Important Notes
