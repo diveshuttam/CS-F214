@@ -1,3 +1,4 @@
+/*from derek banas tutorial https://www.youtube.com/watch?v=SykxWpFwMGs*/
 [db]. /*load database*/
 listing. /*list the contents of the current loaded knowledge bases*/
 write('hello world'), nl,
