@@ -10,7 +10,7 @@ The resources used for learning prolog for this assignment include:
 2. [Derek Banas - Learn Prolog in one Video.](https://www.youtube.com/watch?v=SykxWpFwMGs) \[VIDEO]
 
 # Logic Resources
-1. [Standford Intro to Logic](http://intrologic.stanford.edu/lessons/lessons.html) \[TEXT]
+1. [Stanford Intro to Logic](http://intrologic.stanford.edu/lessons/lessons.html) \[TEXT]
 
 # Important Notes to Self
 ## Prolog
