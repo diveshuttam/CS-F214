@@ -1,3 +1,4 @@
+/*from IIT-KGP AI Course Lectures 14, 15, 16 starting from https://www.youtube.com/watch?v=iJhtgWAGUAQ*/
 /*operations on a list*/
 
 conc([],L,L).
