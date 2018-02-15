@@ -12,7 +12,7 @@ The resources used for learning prolog for this assignment include:
 # Logic Resources
 1. [Stanford Intro to Logic](http://intrologic.stanford.edu/lessons/lessons.html) \[TEXT]
 
-# Important Notes to Self
+# Important Notes
 ## Prolog
 - One of the key points about prolog is that it is a declarative programming language, and control flow of the program is pre-specified. If we draw the flowchart for a prolog program we will get an And-Or tree.  
 i.e
