@@ -6,7 +6,7 @@ I don't claim copyright of the problem statements and practice code provided in 
 
 # Prolog Resources
 The resources used for learning prolog for this assignment include:  
-1. [IIT-KGP Nptel Course on AI - lectures 14 to 15](https://www.youtube.com/watch?v=jySpg72Vbc4)
+1. [IIT-KGP Nptel Course on AI - lectures 13 to 15](https://www.youtube.com/watch?v=jySpg72Vbc4)
 2. [Derek Banas - Learn Prolog in one Video.](https://www.youtube.com/watch?v=SykxWpFwMGs)
 
 # Important Notes
