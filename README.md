@@ -6,11 +6,11 @@ I don't claim copyright of the problem statements and practice code provided in 
 
 # Prolog Resources
 The resources used for learning prolog for this assignment include:  
-1. [IIT-KGP Nptel Course on AI - lectures 14 to 16](https://www.youtube.com/watch?v=iJhtgWAGUAQ)
+1. [IIT-KGP Nptel Course on AI - lectures 14 to 15](https://www.youtube.com/watch?v=jySpg72Vbc4)
 2. [Derek Banas - Learn Prolog in one Video.](https://www.youtube.com/watch?v=SykxWpFwMGs)
 
 # Important Notes
-One of the key points about prolog is that the structure of a prolog program is fixed  
+One of the key points about prolog is that prolog is a declarative programming language, and control flow of the program is pre-specified. If we draw the flowchart for a prolog program we will get an And-Or tree.  
 i.e
 1. there is a OR between all the predicates listed.
 2. there is an AND between the statements written within a predicate (MOSTLY).
