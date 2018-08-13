@@ -22,7 +22,7 @@ i.e
   2. there is an AND between the statements written within a predicate (MOSTLY).
   3. there is a THERE EXISTS within a single predicate. i.e it returns true even if it finds a single correct match of all statements within a predicate
   4. there is a FOR EVERY between the overall predicates i.e all predicates are tested even after a matching predicate is found.
-  5. we can convert THERE EXISTS to FOR EVERY for a single predicates by using 2 NOT's. For details refer to the comments in the code. (Though this is easy to code but makes the predicate only good for checking and not good for producing results -  related to P vs NP another way to achieve FOR EVERY is to use recurrsion)
+  5. we can convert THERE EXISTS to FOR EVERY for a single predicates by using 2 NOT's. For details refer to the comments in the code. (Though this is easy to code but makes the predicate only good for checking and not good for producing results - seems  related to P vs NP. Another way to achieve FOR EVERY is to use recurrsion)
   6. there is an OR between various solution that prolog proposes.
 
 ## Logic
